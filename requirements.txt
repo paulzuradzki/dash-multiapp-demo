@@ -1,0 +1,6 @@
+dash
+pandas
+
+# # optional for bootstrap themes
+# # https://dash-bootstrap-components.opensource.faculty.ai/
+# dash-bootstrap-components
