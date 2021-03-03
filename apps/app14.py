@@ -11,6 +11,12 @@ df = pd.read_csv('https://plotly.github.io/datasets/country_indicators.csv')
 available_indicators = df['Indicator Name'].unique()
 
 layout = html.Div([
+    dcc.Markdown('''
+    ### Update Graphs on Hover
+    Try mousing over the points in the scatter plot on the left. 
+    Notice how the line graphs on the right update based off of the point that you are hovering over.
+
+    '''),
     html.Div([
 
         html.Div([

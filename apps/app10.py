@@ -11,6 +11,7 @@ all_options = {
     'Canada': [u'Montréal', 'Toronto', 'Ottawa']
 }
 layout = html.Div([
+    dcc.Markdown('''### Dash App with Chained Callbacks'''),
     dcc.RadioItems(
         id='countries-radio',
         options=[{'label': k, 'value': k} for k in all_options.keys()],

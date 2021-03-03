@@ -30,6 +30,17 @@ fig.update_layout(clickmode='event+select')
 fig.update_traces(marker_size=20)
 
 layout = html.Div([
+    dcc.Markdown('''
+    ### Interactive Visualization
+    `dash_core_components` library includes a component called `Graph`.
+
+    Dash components are described declaratively by a set of attributes. All of these attributes can be updated by callback functions, but only a subset of these attributes are updated through user interaction, such as when you click on an option in a dcc.Dropdown component and the value property of that component changes.
+
+    The `dcc.Graph` component has four attributes that can change through user-interaction: hoverData, clickData, selectedData, relayoutData. 
+    These properties update when you hover over points, click on points, or select regions of points in a graph.
+
+    Here's an example that prints these attributes in the screen.
+    '''),
     dcc.Graph(
         id='basic-interactions',
         figure=fig

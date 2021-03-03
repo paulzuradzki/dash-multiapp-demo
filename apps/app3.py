@@ -14,6 +14,7 @@ fig = px.scatter(df, x="gdp per capita", y="life expectancy",
                  log_x=True, size_max=60)
 
 layout = html.Div([
+    html.P('Demo interactive and responsive Graph component. Graph renders interactive data visualizations using the open source plotly.js JavaScript graphing library. Plotly.js supports over 35 chart types.'),
     dcc.Graph(
         id='life-exp-vs-gdp',
         figure=fig

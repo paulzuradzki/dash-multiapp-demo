@@ -12,6 +12,11 @@ from app import app
 df = pd.DataFrame({"Col " + str(i+1): np.random.rand(30) for i in range(6)})
 
 layout = html.Div([
+    dcc.Markdown('''
+    ### Generic Crossfilter Recipe
+    Here's a slightly more generic example for crossfiltering across a six-column data set. 
+    Each scatter plot's selection filters the underlying dataset.
+    '''),
     html.Div(
         dcc.Graph(id='g1', config={'displayModeBar': False}),
         className='four columns'

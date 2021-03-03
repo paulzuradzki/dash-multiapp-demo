@@ -6,6 +6,7 @@ from dash.dependencies import Input, Output
 from app import app
 
 layout = html.Div([
+    dcc.Markdown('''### Dash App with Multiple Outputs'''),    
     dcc.Input(
         id='num-multi',
         type='number',

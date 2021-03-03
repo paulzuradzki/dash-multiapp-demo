@@ -13,6 +13,21 @@ Dash uses the [CommonMark](http://commonmark.org/)
 specification of Markdown.
 Check out their [60 Second Markdown Tutorial](http://commonmark.org/help/)
 if this is your first introduction to Markdown!
+
+### Markdown Demo
+---
+
+# Heading 1
+## Heading 2
+### Heading 3
+
+Unordered list
+* foo
+* bar
+* yow
+
+[Links (CNN Lite)](https://lite.cnn.com/en)
+
 '''
 
 layout = html.Div([

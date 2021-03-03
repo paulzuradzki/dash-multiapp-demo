@@ -8,6 +8,12 @@ from app import app
 
 layout = html.Div(
     [
+        dcc.Markdown('''
+        ### Dash App with State
+        In some cases, you might have a "form"-type pattern in your application. 
+        In such a situation, you might want to read the value of the input component, but only when the user is finished entering all of his or her information in the form.
+        In this example, the callback function is fired whenever any of the attributes described by the dash Input change.
+        '''),
         dcc.Input(id="input-1", type="text", value="Montréal"),
         dcc.Input(id="input-2", type="text", value="Canada"),
         html.Div(id="number-output"),

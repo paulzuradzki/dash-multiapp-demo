@@ -1,0 +1,687 @@
+measure_name,numerator,denominator,rate,lower_is_better,pipeline_name,run_date,run_month
+HEDIS 2020: Adherence to Antipsychotic Medications for Individuals With Schizophrenia,0,0,0.00%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Adherence to Antipsychotic Medications for Individuals With Schizophrenia,0,70,0.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Adherence to Antipsychotic Medications for Individuals With Schizophrenia,0,70,0.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Adherence to Antipsychotic Medications for Individuals With Schizophrenia,0,100,0.00%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Adherence to Antipsychotic Medications for Individuals With Schizophrenia,0,110,0.00%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Adherence to Antipsychotic Medications for Individuals With Schizophrenia,10,110,9.10%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Adherence to Antipsychotic Medications for Individuals With Schizophrenia,50,130,38.50%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Adherence to Antipsychotic Medications for Individuals With Schizophrenia,60,130,46.20%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Adherence to Antipsychotic Medications for Individuals With Schizophrenia,90,130,69.20%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Adolescent Well-Care Visits,0,0,0.00%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Adolescent Well-Care Visits,0,0,0.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Adolescent Well-Care Visits,0,0,0.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Adolescent Well-Care Visits,0,0,0.00%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Adolescent Well-Care Visits,0,0,0.00%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Adolescent Well-Care Visits,0,0,0.00%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Adolescent Well-Care Visits,0,0,0.00%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Adolescent Well-Care Visits,0,0,0.00%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Adolescent Well-Care Visits,0,0,0.00%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Adult Access to Preventive or Ambulatory Health Services,1970,4040,48.80%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Adult Access to Preventive or Ambulatory Health Services,2770,3990,69.40%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Adult Access to Preventive or Ambulatory Health Services,2860,3990,71.70%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Adult Access to Preventive or Ambulatory Health Services,3100,3980,77.90%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Adult Access to Preventive or Ambulatory Health Services,3140,3950,79.50%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Adult Access to Preventive or Ambulatory Health Services,3270,3910,83.60%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Adult Access to Preventive or Ambulatory Health Services,3310,3870,85.50%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Adult Access to Preventive or Ambulatory Health Services,3370,3870,87.10%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Adult Access to Preventive or Ambulatory Health Services,3370,3860,87.30%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Adult BMI Assessment,1480,3250,45.50%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Adult BMI Assessment,1510,3240,46.60%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Adult BMI Assessment,1520,3240,46.90%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Adult BMI Assessment,1550,3240,47.80%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Adult BMI Assessment,1530,3230,47.40%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Adult BMI Assessment,1570,3220,48.80%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Adult BMI Assessment,1600,3200,50.00%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Adult BMI Assessment,1620,3220,50.30%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Adult BMI Assessment,1620,3200,50.60%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Antidepressant Medication Management: Acute,110,190,57.90%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Antidepressant Medication Management: Acute,130,210,61.90%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Antidepressant Medication Management: Acute,140,210,66.70%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Antidepressant Medication Management: Acute,140,220,63.60%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Antidepressant Medication Management: Acute,140,220,63.60%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Antidepressant Medication Management: Acute,140,220,63.60%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Antidepressant Medication Management: Acute,140,220,63.60%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Antidepressant Medication Management: Acute,140,220,63.60%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Antidepressant Medication Management: Acute,140,220,63.60%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Antidepressant Medication Management: Continuation,70,190,36.80%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Antidepressant Medication Management: Continuation,70,210,33.30%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Antidepressant Medication Management: Continuation,90,210,42.90%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Antidepressant Medication Management: Continuation,90,220,40.90%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Antidepressant Medication Management: Continuation,90,220,40.90%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Antidepressant Medication Management: Continuation,100,220,45.50%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Antidepressant Medication Management: Continuation,100,220,45.50%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Antidepressant Medication Management: Continuation,100,220,45.50%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Antidepressant Medication Management: Continuation,100,220,45.50%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Appropriate Testing for Pharyngitis,20,30,66.70%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Appropriate Testing for Pharyngitis,20,50,40.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Appropriate Testing for Pharyngitis,20,50,40.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Appropriate Testing for Pharyngitis,20,50,40.00%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Appropriate Testing for Pharyngitis,20,50,40.00%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Appropriate Testing for Pharyngitis,20,60,33.30%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Appropriate Testing for Pharyngitis,20,60,33.30%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Appropriate Testing for Pharyngitis,20,60,33.30%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Appropriate Testing for Pharyngitis,20,50,40.00%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Appropriate Treatment for Upper Respiratory Infection,20,110,18.20%,1,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Appropriate Treatment for Upper Respiratory Infection,20,130,15.40%,1,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Appropriate Treatment for Upper Respiratory Infection,20,130,15.40%,1,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Appropriate Treatment for Upper Respiratory Infection,30,140,21.40%,1,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Appropriate Treatment for Upper Respiratory Infection,30,140,21.40%,1,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Appropriate Treatment for Upper Respiratory Infection,30,140,21.40%,1,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Appropriate Treatment for Upper Respiratory Infection,30,140,21.40%,1,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Appropriate Treatment for Upper Respiratory Infection,30,140,21.40%,1,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Appropriate Treatment for Upper Respiratory Infection,30,140,21.40%,1,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Asthma Medication Ratio,0,0,0.00%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Asthma Medication Ratio,10,10,100.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Asthma Medication Ratio,10,20,50.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Asthma Medication Ratio,10,20,50.00%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Asthma Medication Ratio,10,20,50.00%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Asthma Medication Ratio,10,20,50.00%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Asthma Medication Ratio,10,20,50.00%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Asthma Medication Ratio,10,20,50.00%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Asthma Medication Ratio,10,30,33.30%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Avoidance of Antibiotic Treatment for Acute Bronchitis or Bronchiolitis,30,70,42.90%,1,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Avoidance of Antibiotic Treatment for Acute Bronchitis or Bronchiolitis,50,70,71.40%,1,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Avoidance of Antibiotic Treatment for Acute Bronchitis or Bronchiolitis,50,90,55.60%,1,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Avoidance of Antibiotic Treatment for Acute Bronchitis or Bronchiolitis,50,90,55.60%,1,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Avoidance of Antibiotic Treatment for Acute Bronchitis or Bronchiolitis,50,90,55.60%,1,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Avoidance of Antibiotic Treatment for Acute Bronchitis or Bronchiolitis,50,90,55.60%,1,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Avoidance of Antibiotic Treatment for Acute Bronchitis or Bronchiolitis,50,90,55.60%,1,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Avoidance of Antibiotic Treatment for Acute Bronchitis or Bronchiolitis,50,90,55.60%,1,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Avoidance of Antibiotic Treatment for Acute Bronchitis or Bronchiolitis,50,90,55.60%,1,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Breast Cancer Screening,590,1430,41.30%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Breast Cancer Screening,590,1390,42.40%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Breast Cancer Screening,600,1390,43.20%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Breast Cancer Screening,600,1360,44.10%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Breast Cancer Screening,600,1350,44.40%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Breast Cancer Screening,600,1340,44.80%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Breast Cancer Screening,600,1310,45.80%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Breast Cancer Screening,610,1300,46.90%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Breast Cancer Screening,610,1300,46.90%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Cardiovascular Monitoring for People With Cardiovascular Disease and Schizophrenia,0,0,0.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Cardiovascular Monitoring for People With Cardiovascular Disease and Schizophrenia,0,0,0.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Cardiovascular Monitoring for People With Cardiovascular Disease and Schizophrenia,0,0,0.00%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Cardiovascular Monitoring for People With Cardiovascular Disease and Schizophrenia,0,0,0.00%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Cardiovascular Monitoring for People With Cardiovascular Disease and Schizophrenia,0,0,0.00%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Cardiovascular Monitoring for People With Cardiovascular Disease and Schizophrenia,0,0,0.00%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Cardiovascular Monitoring for People With Cardiovascular Disease and Schizophrenia,0,0,0.00%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Cardiovascular Monitoring for People With Cardiovascular Disease and Schizophrenia,0,0,0.00%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Care for Older Adults: Advance Care Planning,20,1390,1.40%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Care for Older Adults: Advance Care Planning,60,1380,4.30%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Care for Older Adults: Advance Care Planning,60,1380,4.30%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Care for Older Adults: Advance Care Planning,90,1360,6.60%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Care for Older Adults: Advance Care Planning,90,1350,6.70%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Care for Older Adults: Advance Care Planning,110,1320,8.30%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Care for Older Adults: Advance Care Planning,130,1310,9.90%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Care for Older Adults: Advance Care Planning,150,1310,11.50%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Care for Older Adults: Advance Care Planning,140,1300,10.80%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Care for Older Adults: Functional Status Assessment,30,1390,2.20%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Care for Older Adults: Functional Status Assessment,100,1380,7.20%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Care for Older Adults: Functional Status Assessment,100,1380,7.20%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Care for Older Adults: Functional Status Assessment,140,1360,10.30%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Care for Older Adults: Functional Status Assessment,140,1350,10.40%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Care for Older Adults: Functional Status Assessment,180,1320,13.60%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Care for Older Adults: Functional Status Assessment,210,1310,16.00%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Care for Older Adults: Functional Status Assessment,220,1310,16.80%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Care for Older Adults: Functional Status Assessment,220,1300,16.90%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Care for Older Adults: Medication Review,10,1390,0.70%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Care for Older Adults: Medication Review,30,1380,2.20%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Care for Older Adults: Medication Review,30,1380,2.20%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Care for Older Adults: Medication Review,50,1360,3.70%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Care for Older Adults: Medication Review,60,1350,4.40%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Care for Older Adults: Medication Review,100,1320,7.60%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Care for Older Adults: Medication Review,110,1310,8.40%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Care for Older Adults: Medication Review,140,1310,10.70%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Care for Older Adults: Medication Review,130,1300,10.00%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Care for Older Adults: Pain Assessment,20,1390,1.40%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Care for Older Adults: Pain Assessment,50,1380,3.60%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Care for Older Adults: Pain Assessment,50,1380,3.60%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Care for Older Adults: Pain Assessment,50,1360,3.70%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Care for Older Adults: Pain Assessment,50,1350,3.70%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Care for Older Adults: Pain Assessment,60,1320,4.50%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Care for Older Adults: Pain Assessment,70,1310,5.30%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Care for Older Adults: Pain Assessment,70,1310,5.30%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Care for Older Adults: Pain Assessment,70,1300,5.40%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Cervical Cancer Screening,590,1320,44.70%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Cervical Cancer Screening,590,1300,45.40%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Cervical Cancer Screening,590,1300,45.40%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Cervical Cancer Screening,590,1300,45.40%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Cervical Cancer Screening,600,1280,46.90%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Cervical Cancer Screening,600,1270,47.20%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Cervical Cancer Screening,600,1260,47.60%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Cervical Cancer Screening,610,1260,48.40%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Cervical Cancer Screening,610,1260,48.40%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Child and Adolescent Access to Primary Care Practitioners,0,0,0.00%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Child and Adolescent Access to Primary Care Practitioners,0,0,0.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Child and Adolescent Access to Primary Care Practitioners,0,0,0.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Child and Adolescent Access to Primary Care Practitioners,0,0,0.00%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Child and Adolescent Access to Primary Care Practitioners,0,0,0.00%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Child and Adolescent Access to Primary Care Practitioners,0,0,0.00%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Child and Adolescent Access to Primary Care Practitioners,0,0,0.00%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Child and Adolescent Access to Primary Care Practitioners,0,0,0.00%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Child and Adolescent Access to Primary Care Practitioners,0,0,0.00%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Child and Adolescent Access to Primary Care Practitioners: 7 to 11 years,0,0,0.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Child and Adolescent Access to Primary Care Practitioners: 7 to 11 years,0,0,0.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Child and Adolescent Access to Primary Care Practitioners: 7 to 11 years,0,0,0.00%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Child and Adolescent Access to Primary Care Practitioners: 7 to 11 years,0,0,0.00%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Child and Adolescent Access to Primary Care Practitioners: 7 to 11 years,0,0,0.00%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Child and Adolescent Access to Primary Care Practitioners: 7 to 11 years,0,0,0.00%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Child and Adolescent Access to Primary Care Practitioners: 7 to 11 years,0,0,0.00%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Child and Adolescent Access to Primary Care Practitioners: 7 to 11 years,0,0,0.00%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Chlamydia Screening in Women,0,0,0.00%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Chlamydia Screening in Women,0,0,0.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Chlamydia Screening in Women,0,0,0.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Chlamydia Screening in Women,0,0,0.00%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Chlamydia Screening in Women,0,0,0.00%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Chlamydia Screening in Women,0,0,0.00%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Chlamydia Screening in Women,0,0,0.00%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Chlamydia Screening in Women,0,0,0.00%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Chlamydia Screening in Women,0,10,0.00%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Colorectal Cancer Screening,1110,2350,47.20%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Colorectal Cancer Screening,1100,2280,48.20%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Colorectal Cancer Screening,1100,2270,48.50%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Colorectal Cancer Screening,1100,2240,49.10%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Colorectal Cancer Screening,1090,2230,48.90%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Colorectal Cancer Screening,1070,2190,48.90%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Colorectal Cancer Screening,1070,2160,49.50%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Colorectal Cancer Screening,1070,2140,50.00%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Colorectal Cancer Screening,1060,2140,49.50%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Comprehensive Diabetes Care: BP Control Less Than 140 over 90 mm Hg,0,1020,0.00%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Comprehensive Diabetes Care: BP Control Less Than 140 over 90 mm Hg,0,980,0.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Comprehensive Diabetes Care: BP Control Less Than 140 over 90 mm Hg,0,980,0.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Comprehensive Diabetes Care: BP Control Less Than 140 over 90 mm Hg,0,980,0.00%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Comprehensive Diabetes Care: BP Control Less Than 140 over 90 mm Hg,0,980,0.00%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Comprehensive Diabetes Care: BP Control Less Than 140 over 90 mm Hg,0,970,0.00%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Comprehensive Diabetes Care: BP Control Less Than 140 over 90 mm Hg,0,970,0.00%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Comprehensive Diabetes Care: BP Control Less Than 140 over 90 mm Hg,0,970,0.00%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Comprehensive Diabetes Care: BP Control Less Than 140 over 90 mm Hg,0,970,0.00%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Comprehensive Diabetes Care: Eye Exam,140,1020,13.70%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Comprehensive Diabetes Care: Eye Exam,150,980,15.30%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Comprehensive Diabetes Care: Eye Exam,170,980,17.30%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Comprehensive Diabetes Care: Eye Exam,180,980,18.40%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Comprehensive Diabetes Care: Eye Exam,190,980,19.40%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Comprehensive Diabetes Care: Eye Exam,260,970,26.80%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Comprehensive Diabetes Care: Eye Exam,270,970,27.80%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Comprehensive Diabetes Care: Eye Exam,300,970,30.90%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Comprehensive Diabetes Care: Eye Exam,320,970,33.00%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Control Greater Than 9 Percent,970,1020,95.10%,1,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Control Greater Than 9 Percent,920,980,93.90%,1,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Control Greater Than 9 Percent,900,980,91.80%,1,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Control Greater Than 9 Percent,900,980,91.80%,1,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Control Greater Than 9 Percent,880,980,89.80%,1,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Control Greater Than 9 Percent,860,970,88.70%,1,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Control Greater Than 9 Percent,850,970,87.60%,1,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Control Greater Than 9 Percent,850,970,87.60%,1,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Control Greater Than 9 Percent,850,970,87.60%,1,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Control Less Than 7 Percent for a Selected Population,0,350,0.00%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Control Less Than 7 Percent for a Selected Population,0,340,0.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Control Less Than 7 Percent for a Selected Population,10,350,2.90%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Control Less Than 7 Percent for a Selected Population,10,350,2.90%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Control Less Than 7 Percent for a Selected Population,10,350,2.90%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Control Less Than 7 Percent for a Selected Population,20,350,5.70%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Control Less Than 7 Percent for a Selected Population,20,340,5.90%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Control Less Than 7 Percent for a Selected Population,20,350,5.70%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Control Less Than 7 Percent for a Selected Population,10,350,2.90%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Control Less Than 8 Percent,30,1020,2.90%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Control Less Than 8 Percent,50,980,5.10%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Control Less Than 8 Percent,60,980,6.10%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Control Less Than 8 Percent,60,980,6.10%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Control Less Than 8 Percent,70,980,7.10%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Control Less Than 8 Percent,70,970,7.20%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Control Less Than 8 Percent,90,970,9.30%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Control Less Than 8 Percent,90,970,9.30%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Control Less Than 8 Percent,90,970,9.30%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Testing,220,1020,21.60%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Testing,390,980,39.80%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Testing,420,980,42.90%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Testing,510,980,52.00%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Testing,530,980,54.10%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Testing,630,970,64.90%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Testing,650,970,67.00%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Testing,690,970,71.10%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Comprehensive Diabetes Care: HbA1c Testing,700,970,72.20%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Comprehensive Diabetes Care: Medical Attention for Nephropathy,550,1020,53.90%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Comprehensive Diabetes Care: Medical Attention for Nephropathy,630,980,64.30%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Comprehensive Diabetes Care: Medical Attention for Nephropathy,650,980,66.30%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Comprehensive Diabetes Care: Medical Attention for Nephropathy,700,980,71.40%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Comprehensive Diabetes Care: Medical Attention for Nephropathy,700,980,71.40%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Comprehensive Diabetes Care: Medical Attention for Nephropathy,730,970,75.30%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Comprehensive Diabetes Care: Medical Attention for Nephropathy,760,970,78.40%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Comprehensive Diabetes Care: Medical Attention for Nephropathy,780,970,80.40%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Comprehensive Diabetes Care: Medical Attention for Nephropathy,780,970,80.40%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Controlling High Blood Pressure,10,1720,0.60%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Controlling High Blood Pressure,20,1700,1.20%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Controlling High Blood Pressure,20,1720,1.20%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Controlling High Blood Pressure,20,1740,1.10%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Controlling High Blood Pressure,20,1720,1.20%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Controlling High Blood Pressure,20,1720,1.20%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Controlling High Blood Pressure,30,1720,1.70%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Controlling High Blood Pressure,20,1730,1.20%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Controlling High Blood Pressure,20,1730,1.20%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Diabetes Monitoring for People With Diabetes and Schizophrenia,0,10,0.00%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Diabetes Monitoring for People With Diabetes and Schizophrenia,0,20,0.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Diabetes Monitoring for People With Diabetes and Schizophrenia,0,20,0.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Diabetes Monitoring for People With Diabetes and Schizophrenia,0,20,0.00%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Diabetes Monitoring for People With Diabetes and Schizophrenia,0,20,0.00%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Diabetes Monitoring for People With Diabetes and Schizophrenia,10,30,33.30%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Diabetes Monitoring for People With Diabetes and Schizophrenia,10,30,33.30%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Diabetes Monitoring for People With Diabetes and Schizophrenia,10,30,33.30%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Diabetes Monitoring for People With Diabetes and Schizophrenia,10,30,33.30%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Diabetes Screening for People With Schizophrenia or Bipolar Disorder Who Are Using Antipsychotic Medications,10,30,33.30%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Diabetes Screening for People With Schizophrenia or Bipolar Disorder Who Are Using Antipsychotic Medications,30,70,42.90%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Diabetes Screening for People With Schizophrenia or Bipolar Disorder Who Are Using Antipsychotic Medications,30,70,42.90%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Diabetes Screening for People With Schizophrenia or Bipolar Disorder Who Are Using Antipsychotic Medications,60,110,54.50%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Diabetes Screening for People With Schizophrenia or Bipolar Disorder Who Are Using Antipsychotic Medications,60,130,46.20%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Diabetes Screening for People With Schizophrenia or Bipolar Disorder Who Are Using Antipsychotic Medications,90,140,64.30%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Diabetes Screening for People With Schizophrenia or Bipolar Disorder Who Are Using Antipsychotic Medications,100,150,66.70%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Diabetes Screening for People With Schizophrenia or Bipolar Disorder Who Are Using Antipsychotic Medications,110,150,73.30%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Diabetes Screening for People With Schizophrenia or Bipolar Disorder Who Are Using Antipsychotic Medications,130,150,86.70%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Disease Modifying Anti Rheumatic Drug Therapy for Rheumatoid Arthritis,0,0,0.00%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Disease Modifying Anti Rheumatic Drug Therapy for Rheumatoid Arthritis,0,10,0.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Disease Modifying Anti Rheumatic Drug Therapy for Rheumatoid Arthritis,10,10,100.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Disease Modifying Anti Rheumatic Drug Therapy for Rheumatoid Arthritis,10,20,50.00%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Disease Modifying Anti Rheumatic Drug Therapy for Rheumatoid Arthritis,10,20,50.00%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Disease Modifying Anti Rheumatic Drug Therapy for Rheumatoid Arthritis,10,20,50.00%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Disease Modifying Anti Rheumatic Drug Therapy for Rheumatoid Arthritis,10,30,33.30%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Disease Modifying Anti Rheumatic Drug Therapy for Rheumatoid Arthritis,10,30,33.30%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Disease Modifying Anti Rheumatic Drug Therapy for Rheumatoid Arthritis,10,30,33.30%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Follow Up After Emergency Department Visit for Alcohol and Other Drug Abuse or Dependence: 30 Day Follow Up,0,0,0.00%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Follow Up After Emergency Department Visit for Alcohol and Other Drug Abuse or Dependence: 30 Day Follow Up,0,0,0.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Follow Up After Emergency Department Visit for Alcohol and Other Drug Abuse or Dependence: 30 Day Follow Up,0,10,0.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Follow Up After Emergency Department Visit for Alcohol and Other Drug Abuse or Dependence: 30 Day Follow Up,0,20,0.00%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Follow Up After Emergency Department Visit for Alcohol and Other Drug Abuse or Dependence: 30 Day Follow Up,0,20,0.00%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Follow Up After Emergency Department Visit for Alcohol and Other Drug Abuse or Dependence: 30 Day Follow Up,0,20,0.00%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Follow Up After Emergency Department Visit for Alcohol and Other Drug Abuse or Dependence: 30 Day Follow Up,0,20,0.00%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Follow Up After Emergency Department Visit for Alcohol and Other Drug Abuse or Dependence: 30 Day Follow Up,0,30,0.00%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Follow Up After Emergency Department Visit for Alcohol and Other Drug Abuse or Dependence: 30 Day Follow Up,0,30,0.00%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Follow Up After Emergency Department Visit for Alcohol and Other Drug Abuse or Dependence: 7 Day Follow Up,0,0,0.00%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Follow Up After Emergency Department Visit for Alcohol and Other Drug Abuse or Dependence: 7 Day Follow Up,0,0,0.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Follow Up After Emergency Department Visit for Alcohol and Other Drug Abuse or Dependence: 7 Day Follow Up,0,10,0.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Follow Up After Emergency Department Visit for Alcohol and Other Drug Abuse or Dependence: 7 Day Follow Up,0,20,0.00%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Follow Up After Emergency Department Visit for Alcohol and Other Drug Abuse or Dependence: 7 Day Follow Up,0,20,0.00%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Follow Up After Emergency Department Visit for Alcohol and Other Drug Abuse or Dependence: 7 Day Follow Up,0,20,0.00%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Follow Up After Emergency Department Visit for Alcohol and Other Drug Abuse or Dependence: 7 Day Follow Up,0,20,0.00%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Follow Up After Emergency Department Visit for Alcohol and Other Drug Abuse or Dependence: 7 Day Follow Up,0,30,0.00%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Follow Up After Emergency Department Visit for Alcohol and Other Drug Abuse or Dependence: 7 Day Follow Up,0,30,0.00%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Follow Up After Hospitalization for Mental Illness: 30 Day Follow Up,0,0,0.00%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Follow Up After Hospitalization for Mental Illness: 30 Day Follow Up,0,10,0.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Follow Up After Hospitalization for Mental Illness: 30 Day Follow Up,0,10,0.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Follow Up After Hospitalization for Mental Illness: 30 Day Follow Up,0,20,0.00%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Follow Up After Hospitalization for Mental Illness: 30 Day Follow Up,10,20,50.00%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Follow Up After Hospitalization for Mental Illness: 30 Day Follow Up,10,30,33.30%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Follow Up After Hospitalization for Mental Illness: 30 Day Follow Up,10,30,33.30%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Follow Up After Hospitalization for Mental Illness: 30 Day Follow Up,20,50,40.00%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Follow Up After Hospitalization for Mental Illness: 30 Day Follow Up,20,50,40.00%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Follow Up After Hospitalization for Mental Illness: 7 Day Follow Up,0,0,0.00%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Follow Up After Hospitalization for Mental Illness: 7 Day Follow Up,0,10,0.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Follow Up After Hospitalization for Mental Illness: 7 Day Follow Up,0,10,0.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Follow Up After Hospitalization for Mental Illness: 7 Day Follow Up,0,20,0.00%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Follow Up After Hospitalization for Mental Illness: 7 Day Follow Up,0,20,0.00%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Follow Up After Hospitalization for Mental Illness: 7 Day Follow Up,0,30,0.00%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Follow Up After Hospitalization for Mental Illness: 7 Day Follow Up,10,30,33.30%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Follow Up After Hospitalization for Mental Illness: 7 Day Follow Up,10,50,20.00%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Follow Up After Hospitalization for Mental Illness: 7 Day Follow Up,10,50,20.00%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Follow-Up After Emergency Department Visit for Mental Illness: 30-Day Follow-Up,0,0,0.00%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Follow-Up After Emergency Department Visit for Mental Illness: 30-Day Follow-Up,0,10,0.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Follow-Up After Emergency Department Visit for Mental Illness: 30-Day Follow-Up,0,10,0.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Follow-Up After Emergency Department Visit for Mental Illness: 30-Day Follow-Up,0,10,0.00%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Follow-Up After Emergency Department Visit for Mental Illness: 30-Day Follow-Up,0,10,0.00%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Follow-Up After Emergency Department Visit for Mental Illness: 30-Day Follow-Up,0,20,0.00%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Follow-Up After Emergency Department Visit for Mental Illness: 30-Day Follow-Up,10,20,50.00%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Follow-Up After Emergency Department Visit for Mental Illness: 30-Day Follow-Up,10,20,50.00%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Follow-Up After Emergency Department Visit for Mental Illness: 30-Day Follow-Up,10,20,50.00%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Follow-Up After Emergency Department Visit for Mental Illness: 7-Day Follow-Up,0,0,0.00%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Follow-Up After Emergency Department Visit for Mental Illness: 7-Day Follow-Up,0,10,0.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Follow-Up After Emergency Department Visit for Mental Illness: 7-Day Follow-Up,0,10,0.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Follow-Up After Emergency Department Visit for Mental Illness: 7-Day Follow-Up,0,10,0.00%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Follow-Up After Emergency Department Visit for Mental Illness: 7-Day Follow-Up,0,10,0.00%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Follow-Up After Emergency Department Visit for Mental Illness: 7-Day Follow-Up,0,20,0.00%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Follow-Up After Emergency Department Visit for Mental Illness: 7-Day Follow-Up,0,20,0.00%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Follow-Up After Emergency Department Visit for Mental Illness: 7-Day Follow-Up,0,20,0.00%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Follow-Up After Emergency Department Visit for Mental Illness: 7-Day Follow-Up,0,20,0.00%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Follow-Up After Emergency Department Visit for People With Multiple High-Risk Chronic Conditions,60,170,35.30%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Follow-Up After Emergency Department Visit for People With Multiple High-Risk Chronic Conditions,170,350,48.60%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Follow-Up After Emergency Department Visit for People With Multiple High-Risk Chronic Conditions,170,380,44.70%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Follow-Up After Emergency Department Visit for People With Multiple High-Risk Chronic Conditions,240,520,46.20%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Follow-Up After Emergency Department Visit for People With Multiple High-Risk Chronic Conditions,240,560,42.90%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Follow-Up After Emergency Department Visit for People With Multiple High-Risk Chronic Conditions,340,740,45.90%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Follow-Up After Emergency Department Visit for People With Multiple High-Risk Chronic Conditions,400,880,45.50%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Follow-Up After Emergency Department Visit for People With Multiple High-Risk Chronic Conditions,480,1010,47.50%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Follow-Up After Emergency Department Visit for People With Multiple High-Risk Chronic Conditions,490,1050,46.70%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Alcohol Abuse or dependence: Engagement,0,10,0.00%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Alcohol Abuse or dependence: Engagement,0,30,0.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Alcohol Abuse or dependence: Engagement,0,50,0.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Alcohol Abuse or dependence: Engagement,0,60,0.00%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Alcohol Abuse or dependence: Engagement,0,60,0.00%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Alcohol Abuse or dependence: Engagement,0,70,0.00%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Alcohol Abuse or dependence: Engagement,0,70,0.00%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Alcohol Abuse or dependence: Engagement,0,70,0.00%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Alcohol Abuse or dependence: Engagement,0,90,0.00%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Alcohol Abuse or dependence: Initiation,0,10,0.00%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Alcohol Abuse or dependence: Initiation,10,30,33.30%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Alcohol Abuse or dependence: Initiation,20,50,40.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Alcohol Abuse or dependence: Initiation,20,60,33.30%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Alcohol Abuse or dependence: Initiation,20,60,33.30%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Alcohol Abuse or dependence: Initiation,20,70,28.60%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Alcohol Abuse or dependence: Initiation,20,70,28.60%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Alcohol Abuse or dependence: Initiation,20,70,28.60%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Alcohol Abuse or dependence: Initiation,20,90,22.20%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Opioid Abuse or dependence: Engagement,0,0,0.00%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Opioid Abuse or dependence: Engagement,0,10,0.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Opioid Abuse or dependence: Engagement,0,20,0.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Opioid Abuse or dependence: Engagement,0,20,0.00%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Opioid Abuse or dependence: Engagement,0,20,0.00%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Opioid Abuse or dependence: Engagement,0,20,0.00%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Opioid Abuse or dependence: Engagement,0,30,0.00%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Opioid Abuse or dependence: Engagement,0,30,0.00%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Opioid Abuse or dependence: Engagement,0,30,0.00%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Opioid Abuse or dependence: Initiation,0,0,0.00%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Opioid Abuse or dependence: Initiation,0,10,0.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Opioid Abuse or dependence: Initiation,10,20,50.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Opioid Abuse or dependence: Initiation,10,20,50.00%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Opioid Abuse or dependence: Initiation,10,20,50.00%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Opioid Abuse or dependence: Initiation,10,20,50.00%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Opioid Abuse or dependence: Initiation,10,30,33.30%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Opioid Abuse or dependence: Initiation,10,30,33.30%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Opioid Abuse or dependence: Initiation,10,30,33.30%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Other Drug Abuse or dependence: Engagement,0,20,0.00%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Other Drug Abuse or dependence: Engagement,0,30,0.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Other Drug Abuse or dependence: Engagement,0,30,0.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Other Drug Abuse or dependence: Engagement,10,60,16.70%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Other Drug Abuse or dependence: Engagement,10,60,16.70%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Other Drug Abuse or dependence: Engagement,0,60,0.00%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Other Drug Abuse or dependence: Engagement,0,70,0.00%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Other Drug Abuse or dependence: Engagement,0,70,0.00%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Other Drug Abuse or dependence: Engagement,0,90,0.00%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Other Drug Abuse or dependence: Initiation,0,20,0.00%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Other Drug Abuse or dependence: Initiation,20,30,66.70%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Other Drug Abuse or dependence: Initiation,20,30,66.70%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Other Drug Abuse or dependence: Initiation,30,60,50.00%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Other Drug Abuse or dependence: Initiation,30,60,50.00%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Other Drug Abuse or dependence: Initiation,20,60,33.30%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Other Drug Abuse or dependence: Initiation,20,70,28.60%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Other Drug Abuse or dependence: Initiation,30,70,42.90%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Other Drug Abuse or dependence: Initiation,30,90,33.30%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Total: Engagement,0,30,0.00%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Total: Engagement,0,90,0.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Total: Engagement,10,100,10.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Total: Engagement,10,140,7.10%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Total: Engagement,10,140,7.10%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Total: Engagement,10,170,5.90%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Total: Engagement,10,180,5.60%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Total: Engagement,10,190,5.30%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Total: Engagement,10,210,4.80%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Total: Initiation,10,30,33.30%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Total: Initiation,50,90,55.60%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Total: Initiation,60,100,60.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Total: Initiation,70,140,50.00%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Total: Initiation,90,140,64.30%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Total: Initiation,60,170,35.30%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Total: Initiation,60,180,33.30%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Total: Initiation,70,190,36.80%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment: Total: Initiation,70,210,33.30%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Medication Management for People With Asthma: 50 Percent Compliant,0,0,0.00%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Medication Management for People With Asthma: 50 Percent Compliant,0,10,0.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Medication Management for People With Asthma: 50 Percent Compliant,0,10,0.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Medication Management for People With Asthma: 50 Percent Compliant,0,10,0.00%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Medication Management for People With Asthma: 50 Percent Compliant,10,10,100.00%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Medication Management for People With Asthma: 50 Percent Compliant,10,10,100.00%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Medication Management for People With Asthma: 50 Percent Compliant,10,10,100.00%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Medication Management for People With Asthma: 50 Percent Compliant,10,20,50.00%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Medication Management for People With Asthma: 50 Percent Compliant,10,20,50.00%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Medication Management for People With Asthma: 75 Percent Compliant,0,0,0.00%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Medication Management for People With Asthma: 75 Percent Compliant,0,10,0.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Medication Management for People With Asthma: 75 Percent Compliant,0,10,0.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Medication Management for People With Asthma: 75 Percent Compliant,0,10,0.00%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Medication Management for People With Asthma: 75 Percent Compliant,0,10,0.00%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Medication Management for People With Asthma: 75 Percent Compliant,0,10,0.00%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Medication Management for People With Asthma: 75 Percent Compliant,0,10,0.00%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Medication Management for People With Asthma: 75 Percent Compliant,0,20,0.00%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Medication Management for People With Asthma: 75 Percent Compliant,10,20,50.00%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Medication Reconciliation Post Discharge,0,100,0.00%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Medication Reconciliation Post Discharge,0,240,0.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Medication Reconciliation Post Discharge,0,270,0.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Medication Reconciliation Post Discharge,10,350,2.90%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Medication Reconciliation Post Discharge,10,380,2.60%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Medication Reconciliation Post Discharge,30,510,5.90%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Medication Reconciliation Post Discharge,30,600,5.00%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Medication Reconciliation Post Discharge,50,700,7.10%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Medication Reconciliation Post Discharge,50,720,6.90%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Non Recommended Cervical Cancer Screening in Adolescent Females,0,0,0.00%,1,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Non Recommended Cervical Cancer Screening in Adolescent Females,0,0,0.00%,1,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Non Recommended Cervical Cancer Screening in Adolescent Females,0,0,0.00%,1,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Non Recommended Cervical Cancer Screening in Adolescent Females,0,0,0.00%,1,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Non Recommended Cervical Cancer Screening in Adolescent Females,0,0,0.00%,1,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Non Recommended Cervical Cancer Screening in Adolescent Females,0,0,0.00%,1,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Non Recommended Cervical Cancer Screening in Adolescent Females,0,0,0.00%,1,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Non-Recommended PSA-Based Screening in Older Men,10,180,5.60%,1,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Non-Recommended PSA-Based Screening in Older Men,10,180,5.60%,1,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Non-Recommended PSA-Based Screening in Older Men,10,180,5.60%,1,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Non-Recommended PSA-Based Screening in Older Men,20,180,11.10%,1,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Non-Recommended PSA-Based Screening in Older Men,20,170,11.80%,1,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Non-Recommended PSA-Based Screening in Older Men,20,170,11.80%,1,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Non-Recommended PSA-Based Screening in Older Men,30,170,17.60%,1,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Non-Recommended PSA-Based Screening in Older Men,30,170,17.60%,1,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Non-Recommended PSA-Based Screening in Older Men,30,150,20.00%,1,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Osteoporosis Management in Women Who Had a Fracture,0,0,0.00%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Osteoporosis Management in Women Who Had a Fracture,0,0,0.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Osteoporosis Management in Women Who Had a Fracture,0,0,0.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Osteoporosis Management in Women Who Had a Fracture,0,0,0.00%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Osteoporosis Management in Women Who Had a Fracture,0,0,0.00%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Osteoporosis Management in Women Who Had a Fracture,0,0,0.00%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Osteoporosis Management in Women Who Had a Fracture,0,0,0.00%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Osteoporosis Management in Women Who Had a Fracture,0,0,0.00%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Osteoporosis Management in Women Who Had a Fracture,0,0,0.00%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Persistence of Beta Blocker Treatment After a Heart Attack,0,0,0.00%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Persistence of Beta Blocker Treatment After a Heart Attack,0,0,0.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Persistence of Beta Blocker Treatment After a Heart Attack,0,0,0.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Persistence of Beta Blocker Treatment After a Heart Attack,0,0,0.00%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Persistence of Beta Blocker Treatment After a Heart Attack,0,0,0.00%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Persistence of Beta Blocker Treatment After a Heart Attack,0,0,0.00%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Persistence of Beta Blocker Treatment After a Heart Attack,0,0,0.00%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Persistence of Beta Blocker Treatment After a Heart Attack,0,0,0.00%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Persistence of Beta Blocker Treatment After a Heart Attack,0,0,0.00%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Pharmacotherapy Management of COPD Exacerbation: Bronchodilator,20,20,100.00%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Pharmacotherapy Management of COPD Exacerbation: Bronchodilator,50,60,83.30%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Pharmacotherapy Management of COPD Exacerbation: Bronchodilator,50,60,83.30%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Pharmacotherapy Management of COPD Exacerbation: Bronchodilator,60,70,85.70%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Pharmacotherapy Management of COPD Exacerbation: Bronchodilator,50,70,71.40%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Pharmacotherapy Management of COPD Exacerbation: Bronchodilator,50,60,83.30%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Pharmacotherapy Management of COPD Exacerbation: Bronchodilator,50,70,71.40%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Pharmacotherapy Management of COPD Exacerbation: Bronchodilator,60,90,66.70%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Pharmacotherapy Management of COPD Exacerbation: Bronchodilator,60,90,66.70%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Pharmacotherapy Management of COPD Exacerbation: Systemic Corticosteroid,10,20,50.00%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Pharmacotherapy Management of COPD Exacerbation: Systemic Corticosteroid,30,60,50.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Pharmacotherapy Management of COPD Exacerbation: Systemic Corticosteroid,30,60,50.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Pharmacotherapy Management of COPD Exacerbation: Systemic Corticosteroid,30,70,42.90%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Pharmacotherapy Management of COPD Exacerbation: Systemic Corticosteroid,30,70,42.90%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Pharmacotherapy Management of COPD Exacerbation: Systemic Corticosteroid,30,60,50.00%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Pharmacotherapy Management of COPD Exacerbation: Systemic Corticosteroid,30,70,42.90%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Pharmacotherapy Management of COPD Exacerbation: Systemic Corticosteroid,50,90,55.60%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Pharmacotherapy Management of COPD Exacerbation: Systemic Corticosteroid,50,90,55.60%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Potentially Harmful Drug Disease Interactions in the Elderly: Chronic Kidney Disease,0,30,0.00%,1,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Potentially Harmful Drug Disease Interactions in the Elderly: Chronic Kidney Disease,0,50,0.00%,1,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Potentially Harmful Drug Disease Interactions in the Elderly: Chronic Kidney Disease,0,50,0.00%,1,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Potentially Harmful Drug Disease Interactions in the Elderly: Chronic Kidney Disease,0,50,0.00%,1,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Potentially Harmful Drug Disease Interactions in the Elderly: Chronic Kidney Disease,0,50,0.00%,1,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Potentially Harmful Drug Disease Interactions in the Elderly: Chronic Kidney Disease,0,50,0.00%,1,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Potentially Harmful Drug Disease Interactions in the Elderly: Chronic Kidney Disease,0,50,0.00%,1,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Potentially Harmful Drug Disease Interactions in the Elderly: Chronic Kidney Disease,0,50,0.00%,1,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Potentially Harmful Drug Disease Interactions in the Elderly: Chronic Kidney Disease,0,50,0.00%,1,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Potentially Harmful Drug Disease Interactions in the Elderly: Dementia,30,70,42.90%,1,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Potentially Harmful Drug Disease Interactions in the Elderly: Dementia,30,90,33.30%,1,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Potentially Harmful Drug Disease Interactions in the Elderly: Dementia,30,70,42.90%,1,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Potentially Harmful Drug Disease Interactions in the Elderly: Dementia,30,70,42.90%,1,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Potentially Harmful Drug Disease Interactions in the Elderly: Dementia,30,90,33.30%,1,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Potentially Harmful Drug Disease Interactions in the Elderly: Dementia,30,90,33.30%,1,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Potentially Harmful Drug Disease Interactions in the Elderly: Dementia,30,70,42.90%,1,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Potentially Harmful Drug Disease Interactions in the Elderly: Dementia,30,90,33.30%,1,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Potentially Harmful Drug Disease Interactions in the Elderly: Dementia,30,90,33.30%,1,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Potentially Harmful Drug Disease Interactions in the Elderly: History of Falls,20,50,40.00%,1,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Potentially Harmful Drug Disease Interactions in the Elderly: History of Falls,20,50,40.00%,1,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Potentially Harmful Drug Disease Interactions in the Elderly: History of Falls,20,50,40.00%,1,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Potentially Harmful Drug Disease Interactions in the Elderly: History of Falls,20,60,33.30%,1,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Potentially Harmful Drug Disease Interactions in the Elderly: History of Falls,20,60,33.30%,1,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Potentially Harmful Drug Disease Interactions in the Elderly: History of Falls,20,60,33.30%,1,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Potentially Harmful Drug Disease Interactions in the Elderly: History of Falls,20,60,33.30%,1,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Potentially Harmful Drug Disease Interactions in the Elderly: History of Falls,20,60,33.30%,1,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Potentially Harmful Drug Disease Interactions in the Elderly: History of Falls,20,60,33.30%,1,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Prenatal and Postpartum Care: Postpartum,0,0,0.00%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Prenatal and Postpartum Care: Postpartum,0,0,0.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Prenatal and Postpartum Care: Postpartum,0,0,0.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Prenatal and Postpartum Care: Postpartum,0,0,0.00%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Prenatal and Postpartum Care: Postpartum,0,0,0.00%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Prenatal and Postpartum Care: Postpartum,0,10,0.00%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Prenatal and Postpartum Care: Postpartum,0,10,0.00%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Prenatal and Postpartum Care: Postpartum,0,10,0.00%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Prenatal and Postpartum Care: Postpartum,0,10,0.00%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Prenatal and Postpartum Care: Prenatal,0,0,0.00%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Prenatal and Postpartum Care: Prenatal,0,0,0.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Prenatal and Postpartum Care: Prenatal,0,0,0.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Prenatal and Postpartum Care: Prenatal,0,0,0.00%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Prenatal and Postpartum Care: Prenatal,0,0,0.00%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Prenatal and Postpartum Care: Prenatal,0,10,0.00%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Prenatal and Postpartum Care: Prenatal,0,10,0.00%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Prenatal and Postpartum Care: Prenatal,0,10,0.00%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Prenatal and Postpartum Care: Prenatal,0,10,0.00%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Risk of Continued Opioid Use: At least 15 days covered,50,210,23.80%,1,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Risk of Continued Opioid Use: At least 15 days covered,60,220,27.30%,1,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Risk of Continued Opioid Use: At least 15 days covered,90,270,33.30%,1,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Risk of Continued Opioid Use: At least 15 days covered,100,300,33.30%,1,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Risk of Continued Opioid Use: At least 15 days covered,110,340,32.40%,1,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Risk of Continued Opioid Use: At least 15 days covered,130,380,34.20%,1,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Risk of Continued Opioid Use: At least 15 days covered,130,420,31.00%,1,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Risk of Continued Opioid Use: At least 15 days covered,140,430,32.60%,1,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Risk of Continued Opioid Use: At least 15 days covered,140,440,31.80%,1,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Risk of Continued Opioid Use: At least 31 days covered,20,210,9.50%,1,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Risk of Continued Opioid Use: At least 31 days covered,30,220,13.60%,1,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Risk of Continued Opioid Use: At least 31 days covered,60,270,22.20%,1,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Risk of Continued Opioid Use: At least 31 days covered,60,300,20.00%,1,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Risk of Continued Opioid Use: At least 31 days covered,70,340,20.60%,1,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Risk of Continued Opioid Use: At least 31 days covered,70,380,18.40%,1,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Risk of Continued Opioid Use: At least 31 days covered,70,420,16.70%,1,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Risk of Continued Opioid Use: At least 31 days covered,90,430,20.90%,1,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Risk of Continued Opioid Use: At least 31 days covered,90,440,20.50%,1,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Statin Therapy for Patients With Cardiovascular Disease: Statin Therapy,60,130,46.20%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Statin Therapy for Patients With Cardiovascular Disease: Statin Therapy,90,170,52.90%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Statin Therapy for Patients With Cardiovascular Disease: Statin Therapy,100,180,55.60%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Statin Therapy for Patients With Cardiovascular Disease: Statin Therapy,110,210,52.40%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Statin Therapy for Patients With Cardiovascular Disease: Statin Therapy,110,210,52.40%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Statin Therapy for Patients With Cardiovascular Disease: Statin Therapy,140,220,63.60%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Statin Therapy for Patients With Cardiovascular Disease: Statin Therapy,140,220,63.60%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Statin Therapy for Patients With Cardiovascular Disease: Statin Therapy,140,230,60.90%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Statin Therapy for Patients With Cardiovascular Disease: Statin Therapy,150,230,65.20%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Statin Therapy for Patients With Cardiovascular Disease: Statin Therapy Adherence 80 Percent,0,60,0.00%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Statin Therapy for Patients With Cardiovascular Disease: Statin Therapy Adherence 80 Percent,0,90,0.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Statin Therapy for Patients With Cardiovascular Disease: Statin Therapy Adherence 80 Percent,10,100,10.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Statin Therapy for Patients With Cardiovascular Disease: Statin Therapy Adherence 80 Percent,20,110,18.20%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Statin Therapy for Patients With Cardiovascular Disease: Statin Therapy Adherence 80 Percent,20,110,18.20%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Statin Therapy for Patients With Cardiovascular Disease: Statin Therapy Adherence 80 Percent,50,140,35.70%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Statin Therapy for Patients With Cardiovascular Disease: Statin Therapy Adherence 80 Percent,60,140,42.90%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Statin Therapy for Patients With Cardiovascular Disease: Statin Therapy Adherence 80 Percent,90,140,64.30%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Statin Therapy for Patients With Cardiovascular Disease: Statin Therapy Adherence 80 Percent,100,150,66.70%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Statin Therapy for Patients With Diabetes: Statin Therapy,360,780,46.20%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Statin Therapy for Patients With Diabetes: Statin Therapy,360,720,50.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Statin Therapy for Patients With Diabetes: Statin Therapy,390,700,55.70%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Statin Therapy for Patients With Diabetes: Statin Therapy,390,690,56.50%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Statin Therapy for Patients With Diabetes: Statin Therapy,390,690,56.50%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Statin Therapy for Patients With Diabetes: Statin Therapy,390,680,57.40%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Statin Therapy for Patients With Diabetes: Statin Therapy,390,670,58.20%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Statin Therapy for Patients With Diabetes: Statin Therapy,390,650,60.00%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Statin Therapy for Patients With Diabetes: Statin Therapy,400,650,61.50%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Statin Therapy for Patients With Diabetes: Statin Therapy Adherence 80 Percent,0,360,0.00%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Statin Therapy for Patients With Diabetes: Statin Therapy Adherence 80 Percent,0,360,0.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Statin Therapy for Patients With Diabetes: Statin Therapy Adherence 80 Percent,0,390,0.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Statin Therapy for Patients With Diabetes: Statin Therapy Adherence 80 Percent,0,390,0.00%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Statin Therapy for Patients With Diabetes: Statin Therapy Adherence 80 Percent,10,390,2.60%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Statin Therapy for Patients With Diabetes: Statin Therapy Adherence 80 Percent,50,390,12.80%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Statin Therapy for Patients With Diabetes: Statin Therapy Adherence 80 Percent,150,390,38.50%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Statin Therapy for Patients With Diabetes: Statin Therapy Adherence 80 Percent,190,390,48.70%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Statin Therapy for Patients With Diabetes: Statin Therapy Adherence 80 Percent,260,400,65.00%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Use of High Risk Medications in Older Adults,50,1390,3.60%,1,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Use of High Risk Medications in Older Adults,60,1380,4.30%,1,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Use of High Risk Medications in Older Adults,110,1380,8.00%,1,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Use of High Risk Medications in Older Adults,130,1360,9.60%,1,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Use of High Risk Medications in Older Adults,140,1350,10.40%,1,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Use of High Risk Medications in Older Adults,150,1320,11.40%,1,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Use of High Risk Medications in Older Adults,170,1310,13.00%,1,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Use of High Risk Medications in Older Adults,170,1310,13.00%,1,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Use of High Risk Medications in Older Adults,170,1300,13.10%,1,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Use of Imaging Studies for Low Back Pain,0,0,0.00%,1,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Use of Imaging Studies for Low Back Pain,0,10,0.00%,1,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Use of Imaging Studies for Low Back Pain,0,10,0.00%,1,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Use of Imaging Studies for Low Back Pain,0,10,0.00%,1,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Use of Imaging Studies for Low Back Pain,0,10,0.00%,1,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Use of Imaging Studies for Low Back Pain,0,20,0.00%,1,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Use of Imaging Studies for Low Back Pain,0,20,0.00%,1,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Use of Imaging Studies for Low Back Pain,0,20,0.00%,1,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Use of Imaging Studies for Low Back Pain,0,20,0.00%,1,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Use of Opioids at High Dosage,0,690,0.00%,1,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Use of Opioids at High Dosage,0,730,0.00%,1,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Use of Opioids at High Dosage,0,640,0.00%,1,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Use of Opioids at High Dosage,0,650,0.00%,1,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Use of Opioids at High Dosage,0,670,0.00%,1,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Use of Opioids at High Dosage,0,670,0.00%,1,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Use of Opioids at High Dosage,0,670,0.00%,1,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Use of Opioids at High Dosage,0,680,0.00%,1,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Use of Opioids at High Dosage,0,690,0.00%,1,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Use of Opioids From Multiple Providers: Multiple Pharmacies,0,740,0.00%,1,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Use of Opioids From Multiple Providers: Multiple Pharmacies,0,800,0.00%,1,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Use of Opioids From Multiple Providers: Multiple Pharmacies,0,720,0.00%,1,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Use of Opioids From Multiple Providers: Multiple Pharmacies,0,720,0.00%,1,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Use of Opioids From Multiple Providers: Multiple Pharmacies,0,730,0.00%,1,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Use of Opioids From Multiple Providers: Multiple Pharmacies,0,740,0.00%,1,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Use of Opioids From Multiple Providers: Multiple Pharmacies,0,740,0.00%,1,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Use of Opioids From Multiple Providers: Multiple Pharmacies,0,760,0.00%,1,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Use of Opioids From Multiple Providers: Multiple Pharmacies,0,770,0.00%,1,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Use of Opioids From Multiple Providers: Multiple Prescribers,0,740,0.00%,1,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Use of Opioids From Multiple Providers: Multiple Prescribers,0,800,0.00%,1,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Use of Opioids From Multiple Providers: Multiple Prescribers,10,720,1.40%,1,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Use of Opioids From Multiple Providers: Multiple Prescribers,20,720,2.80%,1,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Use of Opioids From Multiple Providers: Multiple Prescribers,30,730,4.10%,1,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Use of Opioids From Multiple Providers: Multiple Prescribers,50,740,6.80%,1,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Use of Opioids From Multiple Providers: Multiple Prescribers,70,740,9.50%,1,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Use of Opioids From Multiple Providers: Multiple Prescribers,70,760,9.20%,1,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Use of Opioids From Multiple Providers: Multiple Prescribers,100,770,13.00%,1,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Use of Opioids From Multiple Providers: Multiple Prescribers and Multiple Pharmacies,0,740,0.00%,1,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Use of Opioids From Multiple Providers: Multiple Prescribers and Multiple Pharmacies,0,800,0.00%,1,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Use of Opioids From Multiple Providers: Multiple Prescribers and Multiple Pharmacies,0,720,0.00%,1,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Use of Opioids From Multiple Providers: Multiple Prescribers and Multiple Pharmacies,0,720,0.00%,1,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Use of Opioids From Multiple Providers: Multiple Prescribers and Multiple Pharmacies,0,730,0.00%,1,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Use of Opioids From Multiple Providers: Multiple Prescribers and Multiple Pharmacies,0,740,0.00%,1,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Use of Opioids From Multiple Providers: Multiple Prescribers and Multiple Pharmacies,0,740,0.00%,1,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Use of Opioids From Multiple Providers: Multiple Prescribers and Multiple Pharmacies,0,760,0.00%,1,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Use of Opioids From Multiple Providers: Multiple Prescribers and Multiple Pharmacies,0,770,0.00%,1,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Use of Spirometry Testing in the Assessment and Diagnosis of COPD,10,100,10.00%,0,Lag Run HEDIS 2020,4/19/20,202004
+HEDIS 2020: Use of Spirometry Testing in the Assessment and Diagnosis of COPD,10,110,9.10%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Use of Spirometry Testing in the Assessment and Diagnosis of COPD,20,110,18.20%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Use of Spirometry Testing in the Assessment and Diagnosis of COPD,20,130,15.40%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Use of Spirometry Testing in the Assessment and Diagnosis of COPD,20,130,15.40%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Use of Spirometry Testing in the Assessment and Diagnosis of COPD,20,140,14.30%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Use of Spirometry Testing in the Assessment and Diagnosis of COPD,20,140,14.30%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Use of Spirometry Testing in the Assessment and Diagnosis of COPD,20,140,14.30%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Use of Spirometry Testing in the Assessment and Diagnosis of COPD,20,140,14.30%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Weight Assessment and Counseling for Nutrition and Physical Activity for Children Adolescents: BMI Percentile,0,0,0.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Weight Assessment and Counseling for Nutrition and Physical Activity for Children Adolescents: BMI Percentile,0,0,0.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Weight Assessment and Counseling for Nutrition and Physical Activity for Children Adolescents: BMI Percentile,0,0,0.00%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Weight Assessment and Counseling for Nutrition and Physical Activity for Children Adolescents: BMI Percentile,0,0,0.00%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Weight Assessment and Counseling for Nutrition and Physical Activity for Children Adolescents: BMI Percentile,0,0,0.00%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Weight Assessment and Counseling for Nutrition and Physical Activity for Children Adolescents: BMI Percentile,0,0,0.00%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Weight Assessment and Counseling for Nutrition and Physical Activity for Children Adolescents: BMI Percentile,0,0,0.00%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Weight Assessment and Counseling for Nutrition and Physical Activity for Children Adolescents: BMI Percentile,0,0,0.00%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Weight Assessment and Counseling for Nutrition and Physical Activity for Children Adolescents: Counseling for Nutrition,0,0,0.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Weight Assessment and Counseling for Nutrition and Physical Activity for Children Adolescents: Counseling for Nutrition,0,0,0.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Weight Assessment and Counseling for Nutrition and Physical Activity for Children Adolescents: Counseling for Nutrition,0,0,0.00%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Weight Assessment and Counseling for Nutrition and Physical Activity for Children Adolescents: Counseling for Nutrition,0,0,0.00%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Weight Assessment and Counseling for Nutrition and Physical Activity for Children Adolescents: Counseling for Nutrition,0,0,0.00%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Weight Assessment and Counseling for Nutrition and Physical Activity for Children Adolescents: Counseling for Nutrition,0,0,0.00%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Weight Assessment and Counseling for Nutrition and Physical Activity for Children Adolescents: Counseling for Nutrition,0,0,0.00%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Weight Assessment and Counseling for Nutrition and Physical Activity for Children Adolescents: Counseling for Nutrition,0,0,0.00%,0,Lag Run HEDIS 2020,12/12/20,202012
+HEDIS 2020: Weight Assessment and Counseling for Nutrition and Physical Activity for Children Adolescents: Counseling for Physical Activity,0,0,0.00%,0,Lag Run HEDIS 2020,5/9/20,202005
+HEDIS 2020: Weight Assessment and Counseling for Nutrition and Physical Activity for Children Adolescents: Counseling for Physical Activity,0,0,0.00%,0,Lag Run HEDIS 2020,6/9/20,202006
+HEDIS 2020: Weight Assessment and Counseling for Nutrition and Physical Activity for Children Adolescents: Counseling for Physical Activity,0,0,0.00%,0,Lag Run HEDIS 2020,7/9/20,202007
+HEDIS 2020: Weight Assessment and Counseling for Nutrition and Physical Activity for Children Adolescents: Counseling for Physical Activity,0,0,0.00%,0,Lag Run HEDIS 2020,8/13/20,202008
+HEDIS 2020: Weight Assessment and Counseling for Nutrition and Physical Activity for Children Adolescents: Counseling for Physical Activity,0,0,0.00%,0,Lag Run HEDIS 2020,9/20/20,202009
+HEDIS 2020: Weight Assessment and Counseling for Nutrition and Physical Activity for Children Adolescents: Counseling for Physical Activity,0,0,0.00%,0,Lag Run HEDIS 2020,10/9/20,202010
+HEDIS 2020: Weight Assessment and Counseling for Nutrition and Physical Activity for Children Adolescents: Counseling for Physical Activity,0,0,0.00%,0,Lag Run HEDIS 2020,11/4/20,202011
+HEDIS 2020: Weight Assessment and Counseling for Nutrition and Physical Activity for Children Adolescents: Counseling for Physical Activity,0,0,0.00%,0,Lag Run HEDIS 2020,12/12/20,202012

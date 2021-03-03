@@ -8,6 +8,14 @@ import dash_core_components as dcc
 import dash_html_components as html
 
 layout = html.Div([
+    dcc.Markdown(children='''
+    # Demo Dash Core Components
+
+    `dash_core_components` includes a set of higher-level components like dropdowns, graphs, markdown blocks, and more.
+
+    Like all Dash components, they are described entirely declaratively. Every option that is configurable is available as a keyword argument of the component.  
+    '''),
+    html.Br(),
     html.Label('Dropdown'),
     dcc.Dropdown(
         options=[
@@ -28,8 +36,12 @@ layout = html.Div([
         value=['MTL', 'SF'],
         multi=True
     ),
+    html.Br(),
+    dcc.Link('Go back to home', href='/'),
 
+    html.Br(),
     html.Label('Radio Items'),
+
     dcc.RadioItems(
         options=[
             {'label': 'New York City', 'value': 'NYC'},
@@ -38,8 +50,6 @@ layout = html.Div([
         ],
         value='MTL'
     ),
-
-    dcc.Link('Go back to home', href='/'),
 
     html.Label('Checkboxes'),
     dcc.Checklist(

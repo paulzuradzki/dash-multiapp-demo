@@ -7,6 +7,12 @@ from dash.dependencies import Input, Output, State
 from app import app
 
 layout = html.Div([
+    dcc.Markdown('''
+    ### Dash App with State
+    `dash.dependencies.State` allows you to pass along extra values without firing the callbacks. 
+    Here's the same example as before but with the `dcc.Input` (dcc=dash core component) as dash.dependencies.State 
+    and a button as `dash.dependencies.Input` (submit button).
+    '''),
     dcc.Input(id='input-1-state', type='text', value='Montréal'),
     dcc.Input(id='input-2-state', type='text', value='Canada'),
     html.Button(id='submit-button-state', n_clicks=0, children='Submit'),

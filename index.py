@@ -4,6 +4,7 @@ from dash.dependencies import Input, Output
 
 from app import app
 from apps import app0, app1, app2, app3, app4, app5, app6, app7, app8, app9, app10, app11, app12, app13, app14, app15
+from apps.app16 import quality_measures
 
 # the following code is repetitive in case we decide to implement a different URL pattern (ex: app IDs don't have to be numbered)
 index_page = html.Div([
@@ -39,6 +40,8 @@ index_page = html.Div([
     dcc.Link('App 14', href='/apps/app14'),
     html.Br(),
     dcc.Link('App 15', href='/apps/app15'),
+    html.Br(),
+    dcc.Link('Quality Measures', href='/apps/app16/quality_measures'),
 ])
 
 app.layout = html.Div([
@@ -62,6 +65,7 @@ path_lookup = {'/apps/app0': app0.layout,
                '/apps/app13': app13.layout,
                '/apps/app14': app14.layout,
                '/apps/app15': app15.layout,
+               '/apps/app16/quality_measures': quality_measures.layout,
                }
 
 @app.callback(Output('page-content', 'children'),

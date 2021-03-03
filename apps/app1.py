@@ -43,6 +43,7 @@ layout = html.Div(style={'backgroundColor': colors['background']}, children=[
         'textAlign': 'center',
         'color': colors['text']
     }),
+    html.P('Demo changing HTML and dash_html_components'),
 
     dcc.Graph(
         id='example-graph-2',

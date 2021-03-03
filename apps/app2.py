@@ -26,6 +26,7 @@ external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 layout = html.Div(children=[
     html.H4(children='US Agriculture Exports (2011)'),
+    html.P('Demo resuable components. By writing our markup in Python, we can create complex reusable components like tables without switching contexts or languages.'),
     generate_table(df),
     dcc.Link('Go back to home', href='/')
 ])

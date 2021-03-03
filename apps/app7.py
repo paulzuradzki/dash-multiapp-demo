@@ -10,6 +10,7 @@ from app import app
 df = pd.read_csv('https://raw.githubusercontent.com/plotly/datasets/master/gapminderDataFiveYear.csv')
 
 layout = html.Div([
+    dcc.Markdown('''### Dash App Layout with Figure and Slider'''),
     dcc.Graph(id='graph-with-slider'),
     dcc.Slider(
         id='year-slider',

@@ -25,6 +25,7 @@ layout = html.Div(children=[
     html.Div(children='''
         Dash: A web application framework for Python.
     '''),
+    html.P('Demo basic "layout" concept'),
 
     dcc.Graph(
         id='example-graph',
