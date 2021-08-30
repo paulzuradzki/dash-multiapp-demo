@@ -3,45 +3,33 @@ import dash_html_components as html
 from dash.dependencies import Input, Output
 
 from app import app
-from apps import app0, app1, app2, app3, app4, app5, app6, app7, app8, app9, app10, app11, app12, app13, app14, app15
+from apps import app0, app1, app2, app3, app4, app5, app6, app7, app8, app9, app10 \
+                ,app11, app12, app13, app14, app15, app17
 from apps.app16 import quality_measures
 
-# the following code is repetitive in case we decide to implement a different URL pattern (ex: app IDs don't have to be numbered)
 index_page = html.Div([
-    html.H3('Home'),
-    dcc.Link('App 0', href='/apps/app0'),
-    html.Br(),
-    dcc.Link('App 1', href='/apps/app1'),
-    html.Br(),
-    dcc.Link('App 2', href='/apps/app2'),
-    html.Br(),
-    dcc.Link('App 3', href='/apps/app3'),
-    html.Br(),
-    dcc.Link('App 4', href='/apps/app4'),
-    html.Br(),
-    dcc.Link('App 5', href='/apps/app5'),
-    html.Br(),
-    dcc.Link('App 6', href='/apps/app6'),
-    html.Br(),
-    dcc.Link('App 7', href='/apps/app7'),
-    html.Br(),
-    dcc.Link('App 8', href='/apps/app8'),
-    html.Br(),
-    dcc.Link('App 9', href='/apps/app9'),
-    html.Br(),
-    dcc.Link('App 10', href='/apps/app10'),
-    html.Br(),
-    dcc.Link('App 11', href='/apps/app11'),
-    html.Br(),
-    dcc.Link('App 12', href='/apps/app12'),
-    html.Br(),
-    dcc.Link('App 13', href='/apps/app13'),
-    html.Br(),
-    dcc.Link('App 14', href='/apps/app14'),
-    html.Br(),
-    dcc.Link('App 15', href='/apps/app15'),
-    html.Br(),
-    dcc.Link('Quality Measures', href='/apps/app16/quality_measures'),
+    dcc.Markdown('''
+    ### Home - Dash Proof of Concept
+
+    [App 0](/apps/app0)  
+    [App 1](/apps/app1)  
+    [App 2](/apps/app2)  
+    [App 3](/apps/app3)  
+    [App 4](/apps/app4)  
+    [App 5](/apps/app5)  
+    [App 6](/apps/app6)  
+    [App 7](/apps/app7)  
+    [App 8](/apps/app8)  
+    [App 9](/apps/app9)  
+    [App 10](/apps/app10)  
+    [App 11](/apps/app11)  
+    [App 12](/apps/app12)  
+    [App 13](/apps/app13)      
+    [App 14](/apps/app14)  
+    [App 15](/apps/app15)  
+    [App 16 - Quality Measures](/apps/app16/quality_measures)  
+    [App 17](/apps/app17)  
+    '''),
 ])
 
 app.layout = html.Div([
@@ -66,6 +54,7 @@ path_lookup = {'/apps/app0': app0.layout,
                '/apps/app14': app14.layout,
                '/apps/app15': app15.layout,
                '/apps/app16/quality_measures': quality_measures.layout,
+               '/apps/app17': app17.layout,
                }
 
 @app.callback(Output('page-content', 'children'),
