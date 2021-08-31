@@ -1,3 +1,33 @@
+# Dash Multi-App Demo
+
+This application demonstrates the capabilities of Dash, a Python library for making analytic web apps.
+* This is a multi-page application with URL routing ([docs](https://dash.plotly.com/urls)).
+* Written on top of Plotly.js and React.js, Dash is a Python library for building data apps with customized user interfaces in pure Python, R, or Julia. It's particularly suited for anyone who works with data. Dash apps are rendered in the web browser. You can read more about Dash from its publisher, Plotly, [here](https://dash.plotly.com/).
+
+## Demo
+<img src="./imgs/dash-demo.gif" alttexxt="Dash Demonstration">
+
+## Instructons (Development)
+These are instructions for dev purposes. For a production environment, see the detailed guide below.
+```bash
+$ git clone git@github.com:paulzuradzki/dash-multiapp-demo.git
+$ cd dash-multiapp-demo
+$ python -m venv venv
+
+# Mac/Linux
+$ source venv/bin/activate
+
+# for Windows
+$ venv\Scripts\activate.bat
+
+$ pip install -r requirements.txt
+
+# run application
+$ python index.py
+
+# type localhost:8000 into your browser
+```
+
 <!-- TODO: add instructions for alternative to `pip install` from the web (install from wheels/zip file instead) -->
 
 # Python Web Application Server Setup for Production
@@ -49,7 +79,7 @@ ___
     * Note: if you use a different username, make sure that you are using the correct username in config files and terminal commands throughout
 
 Create a user and grant admin rights
-```
+```bash
 $ ssh root@your_server_ip       # connect to host; you may need to replace "root" with "ubuntu"
 $ adduser pz-dev                # add user
 $ usermod -aG sudo pz-dev       # grant admin rights
@@ -66,14 +96,14 @@ $ chmod 600 ~/.ssh/authorized_keys                              # restrict permi
 * Set up firewall and rules
 
 Modify the sshd_config file (e.g., using vim)
-```
+```bash
 # /etc/ssh/sshd_config
 PermitRootLogin no              # Disable root logins
 PasswordAuthentication no       # Disable password logins
 ```
 
 For the firewall, enable SSH, HTTPS, and HTTP
-```
+```bash
 $ sudo apt-get install -y ufw
 $ sudo ufw allow ssh
 $ sudo ufw allow http
@@ -83,14 +113,14 @@ $ sudo ufw status
 ```
 
 ## Install server dependencies
-```
+```bash
 $ sudo apt-get -y update
 $ sudo apt-get -y install python3 python3-venv python3-dev
 $ sudo apt-get -y install supervisor nginx git
 ```
 
 ## Install your web application and Python dependencies
-```
+```bash
 # get application from GitHub
 $ git clone https://github.com/paulzuradzki/dash-multiapp-demo.git
 
@@ -116,7 +146,7 @@ $ pip install gunicorn
 * for `index:server`, `index` is the name of the Python module file containing the `server` variable. This may differ from app to app depending on how where you've created the server variable. E.g., some tutorials online may show something like `app:app` or `app:app.server`. 
 * gunicorn must be called from applicaton project directory; else, provide the full path 
 
-```
+```bash
 echo "export FLASK_APP=index.py" >> ~/.profile
 (venv) $ gunicorn -b localhost:8000 -w 4 index:server
 
@@ -129,7 +159,7 @@ echo "export FLASK_APP=index.py" >> ~/.profile
 * supervisor makes the app/gunicorn restart in case the server is rebooted; this avoids manual intervention
 * note program name (`[program:index]`) if you change the app structure in Flask/Dash
 * the command line is what we would 
-```
+```bash
 # /etc/supervisor/conf.d/dash-app.conf
 [program:index]
 command=/home/pz-dev/dash-multiapp-demo/venv/bin/gunicorn -b localhost:8000 -w 4 index:server
@@ -142,24 +172,24 @@ killasgroup=true
 ```
 
 Reload supervisor after creating supervisor configuration file
-```
+```bash
 $ sudo supervisorctl reload
 ```
 
 ## `nginx` - set up the web server 
 Make self-signed cert for testing
-```
+```bash
 openssl req -new -newkey rsa:4096 -days 365 -nodes -x509 \
   -keyout certs/key.pem -out certs/cert.pem
 ```
 
 Remove default nginx site
-```
+```bash
 $ sudo rm /etc/nginx/sites-enabled/default
 ```
 
 Create an nginx web server configuration file for the application
-```
+```bash
 # /etc/nginx/sites-enabled/dash-app
 
 server {
@@ -203,7 +233,7 @@ server {
 ```
 
 Restart Nginx webserver after creating 
-```
+```bash
 sudo service nginx reload
 ```
 
