@@ -7,6 +7,9 @@ from apps import app0, app1, app2, app3, app4, app5, app6, app7, app8, app9, app
                 ,app11, app12, app13, app14, app15, app17
 from apps.app16 import quality_measures
 
+server = app.server
+
+# the following code is repetitive in case we decide to implement a different URL pattern (ex: app IDs don't have to be numbered)
 index_page = html.Div([
     dcc.Markdown('''
     ### Home - Dash Proof of Concept
@@ -66,4 +69,4 @@ def display_page(pathname):
         return index_page
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=False, host='localhost', port=8000)
