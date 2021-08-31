@@ -44,6 +44,7 @@ $ python index.py
     * [`supervisor` - set up process control](#supervisor-\--set-up-process-control)
     * [`nginx` - set up the web server](#nginx-\--set-up-the-web-server)
     * [HTTPS and SSL Cert Setup](#https-and-ssl-cert-setup)
+    * [Offline Deployment Resources](#offline-deployment-resources)
 
 ## Terms
 * `supervisor` enables processes to run as background services and restart when the server reboots
@@ -121,6 +122,9 @@ $ sudo apt-get -y install supervisor nginx git
 
 ## Install your web application and Python dependencies
 ```bash
+$ cd ~
+$ mkdir repos
+$ cd repos
 # get application from GitHub
 $ git clone https://github.com/paulzuradzki/dash-multiapp-demo.git
 
@@ -151,7 +155,7 @@ echo "export FLASK_APP=index.py" >> ~/.profile
 (venv) $ gunicorn -b localhost:8000 -w 4 index:server
 
 # or
-(venv) /home/pz-dev/dash-multiapp-demo/venv/bin/gunicorn -b localhost:8000 -w 4 index:server
+(venv) /home/pz-dev/repos/dash-multiapp-demo/venv/bin/gunicorn -b localhost:8000 -w 4 index:server
 ```
 
 
@@ -162,8 +166,8 @@ echo "export FLASK_APP=index.py" >> ~/.profile
 ```bash
 # /etc/supervisor/conf.d/dash-app.conf
 [program:index]
-command=/home/pz-dev/dash-multiapp-demo/venv/bin/gunicorn -b localhost:8000 -w 4 index:server
-directory=/home/pz-dev/dash-multiapp-demo
+command=/home/pz-dev/repos/dash-multiapp-demo/venv/bin/gunicorn -b localhost:8000 -w 4 index:server
+directory=/home/pz-dev/repos/dash-multiapp-demo
 user=pz-dev
 autostart=true
 autorestart=true
@@ -244,3 +248,12 @@ sudo service nginx reload
 * For corporate deployments, a networking or system admin may have to provide the certificates
 * You will have to modify the nginx configuration above to re-point the `ssl_certificate` and `ssl_certificate_key` file paths
 * Link: https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-20-04
+
+## Offline Deployment Resources
+* Sometimes a server may not have access to the public internet for security reasons
+* In this event, you will not be able to install Python packages with `pip install` from PyPi.org as you normally would
+* Here are resources for offline deployment options that use source distributions - distributable zip files that you can install like `pip install my-package.tar.gz` - and/or Docker containers.
+* Links
+    * https://dabeaz-course.github.io/practical-python/Notes/09_Packages/03_Distribution.html
+    * https://realpython.com/pypi-publish-python-package/#building-your-package
+    * https://realpython.com/offline-python-deployments-with-docker/ 
