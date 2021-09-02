@@ -34,6 +34,7 @@ $ python index.py
 
 ## Contents
 * [Terms](#terms)
+* [References](#references)
 * [Assumptions](#assumptions)
 * [Steps](#steps)
     * [Initial user setup for server](#initial-user-setup-for-server)
@@ -58,6 +59,7 @@ $ python index.py
 * https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xvii-deployment-on-linux
 * https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-20-04
 * https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-20-04
+* https://www.freecodecamp.org/news/the-nginx-handbook
 
 ## Assumptions
 * You have access to a server
@@ -183,6 +185,8 @@ $ sudo supervisorctl reload
 ## `nginx` - set up the web server 
 Make self-signed cert for testing
 ```bash
+# run this command from the application directory
+# ex: /home/pz-dev/repos/dash-multiapp-demo
 openssl req -new -newkey rsa:4096 -days 365 -nodes -x509 \
   -keyout certs/key.pem -out certs/cert.pem
 ```
@@ -257,3 +261,13 @@ sudo service nginx reload
     * https://dabeaz-course.github.io/practical-python/Notes/09_Packages/03_Distribution.html
     * https://realpython.com/pypi-publish-python-package/#building-your-package
     * https://realpython.com/offline-python-deployments-with-docker/ 
+
+
+## Deploying Application Updates
+After pulling new application code, the server must be stopped and restarted like so. Additional steps may be necessary for updating a more complicated Python app (ex: `$ flask db upgrade` to upgrade a database, `$ flask translate compile` for translations).
+
+```bash
+(venv) $ git pull                                       # download the new version
+(venv) $ sudo supervisorctl stop dash-multiapp-demo     # stop the current server
+(venv) $ sudo supervisorctl start dash-multiapp-demo    # start a new server
+```
