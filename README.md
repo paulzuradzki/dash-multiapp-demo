@@ -177,7 +177,7 @@ stopasgroup=true
 killasgroup=true
 ```
 
-Reload supervisor after creating supervisor configuration file
+Reload supervisor after creating supervisor configuration file. You must re-run this to reload any updates to the config.
 ```bash
 $ sudo supervisorctl reload
 ```
