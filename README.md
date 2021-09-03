@@ -60,6 +60,7 @@ $ python index.py
 * https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-20-04
 * https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-20-04
 * https://www.freecodecamp.org/news/the-nginx-handbook
+* https://aboutbryan.com/2013/03/03/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers/
 
 ## Assumptions
 * You have access to a server
