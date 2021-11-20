@@ -106,6 +106,11 @@ PermitRootLogin no              # Disable root logins
 PasswordAuthentication no       # Disable password logins
 ```
 
+Restart the SSH service so that sshd_config file changes take effect. You should no longer be able to login as root nor via password after this step.
+```
+$ sudo systemctl restart ssh
+```
+
 For the firewall, enable SSH, HTTPS, and HTTP
 ```bash
 $ sudo apt-get install -y ufw
